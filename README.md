@@ -15,4 +15,4 @@ You can run the crawler by the shell script run_crawl.sh
 The crawled texts will be placed in ep.txt
 
 I have ran GPT2 Finetuning script SouthOstrobotniaGPT2.ipynb in Google Colab. You should transfer texts-file ep.txt to
-same directory where you run Colab-notebook
+same directory where you run Colab-notebook.
