@@ -1,9 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-#main_page_link="http://pohopekka.blogspot.com/"
 main_page_link="https://www.blogit.fi/tag/pakina"
-#main_page_link=fi_wiki_link+"/wiki/Seitsem%C3%A4n_veljest%C3%A4"
 
 page=requests.get(main_page_link)
 soup = BeautifulSoup(page.content, 'html.parser')
