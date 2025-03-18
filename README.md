@@ -1,7 +1,7 @@
 # South-Ostrobotnia-GPT2
-Experiments with GPT2: Finetuning a Finnish GPT2 to South Ostrobotnia
+Experiments with GPT2: Finetuning a Finnish GPT2 to South Ostrobothnia
 
-This is a not so serious attempt to make a GPT2 based text generator of South Ostrobotian dialect.
+This is a not so serious attempt to make a GPT2 based text generator of South Ostrobothnian dialect.
 
 GPT2 base model I'm using is this: https://huggingface.co/Finnish-NLP/gpt2-finnish?text=Teksti%C3%A4+tuottava+teko%C3%A4ly+on
 version Finnish-NLP/gpt2-finnish by Aapo Tanskanen and Rasmus Toivanen
